@@ -4,7 +4,7 @@
 
 ## Pioche
 
-* [Tokens Enchant](pioche/tokens-enchant.md)
+* [Tokens Enchant](pioche/enchantement.md)
 * [Gems Enchant](pioche/gems-enchant.md)
 
 ## PvP

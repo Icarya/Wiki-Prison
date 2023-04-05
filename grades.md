@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Mafieux</summary>
+<summary>Demon</summary>
 
 `/balancetop force` - Permet de forcer le rafraichissement du baltop
 
@@ -20,7 +20,7 @@ Accès a 8 plots
 
 <details>
 
-<summary>Assassin</summary>
+<summary>Psycho</summary>
 
 `/afk` - Permet d'afficher son statut d'AFK
 
@@ -38,7 +38,7 @@ Accès a 6 plots
 
 <details>
 
-<summary>Criminel</summary>
+<summary>Ange</summary>
 
 `/heal` - Permet de se heal durant un combat
 
@@ -50,7 +50,7 @@ Accès a 5 plots
 
 <details>
 
-<summary>Espion</summary>
+<summary>Evil</summary>
 
 `/nick` - Permet de changer votre pseudo avec de la couleur
 
@@ -116,7 +116,7 @@ Accès a 2 plots
 
 <details>
 
-<summary>Escroc</summary>
+<summary>VIP</summary>
 
 `/trash` - Accès à jeter des items via le menu
 
