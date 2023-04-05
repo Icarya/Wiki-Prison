@@ -1,6 +1,8 @@
 # Enchantement
 
-<figure><img src="../.gitbook/assets/image_2022-12-06_134435650.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2023-04-04_235250917.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image_2023-04-04_235341149.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -111,6 +113,38 @@ Niveau de pioche Requis:&#x20;
 Prix total:
 
 Remboursable: <mark style="color:green;">Oui</mark>
+
+</details>
+
+<details>
+
+<summary>Lucky</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Token Merchant</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Nuke</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Holy</summary>
+
+
 
 </details>
 
