@@ -64,7 +64,7 @@ Lors de la connexion vous ne serez pas téléporté au spawn
 
 <details>
 
-<summary>Gangster</summary>
+<summary>Dieu</summary>
 
 `/repair all` - Permet de réparer tout vos items via une commande
 
@@ -74,7 +74,7 @@ Accès a 4 plots
 
 <details>
 
-<summary>Braqueur</summary>
+<summary>Veteran</summary>
 
 Permet d'utiliser des codes de couleur dans la commande /msg.
 
@@ -88,7 +88,7 @@ Accès a 3 plots
 
 <details>
 
-<summary>Trafiquant</summary>
+<summary>Elite</summary>
 
 `/near` - Permet de voir les joueurs à proximité
 
@@ -100,7 +100,7 @@ Accès a 3 plots
 
 <details>
 
-<summary>Voleur</summary>
+<summary>Legende</summary>
 
 `/fly` - Permet de fly&#x20;
 
