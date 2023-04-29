@@ -248,22 +248,6 @@ Remboursable: <mark style="color:green;">Oui</mark>
 
 <details>
 
-<summary>Multiplier Finder</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
 <summary>Boom Fish</summary>
 
 Description
