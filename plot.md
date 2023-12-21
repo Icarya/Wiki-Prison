@@ -19,7 +19,4 @@
 | `/p music`            | Permet de choisir la musique de son plot                                           | Evil    |
 | `/p setbiome`         | Permet de choisir le biome de ton plot                                             | Élite   |
 | `/p flag set weather` | Permet de choisir la météo sur ton plot                                            | Vétéran |
-| `/plot done`          | Marquer votre plot comme terminé                                                   |         |
-| `/plot continue`      | Retire le statut de plot terminé                                                   |         |
 | `/plot clear`         | Permet de réinitialiser votre plot                                                 | Légende |
-| `/plot rate`          | Permet de noter un plot                                                            |         |

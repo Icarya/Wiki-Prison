@@ -1,100 +1,32 @@
 # Gems Enchant
 
-<figure><img src="../.gitbook/assets/image_2023-04-04_235341149.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2023-12-20_230812461.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
 <summary>Jackpot</summary>
 
-Description
+Description: Possibilité de gagner des récompenses super OP
 
-Niveau Maximum:
+Niveau Maximum: 1
 
-Niveau de pioche Requis:&#x20;
+Niveau de pioche requis: 100
 
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
+Prix total: 100M gems
 
 </details>
 
 <details>
 
-<summary>Icy</summary>
+<summary>Suicidal Minions</summary>
 
-Description
+Description: Possibilité de faire apparaître des zombies explosifs.
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
-Niveau de pioche Requis:&#x20;
+Niveau de pioche requis: 200
 
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Wild Wither</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Robot Finder</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Guardian</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Prosperity</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
+Prix total: 1.27B gems
 
 </details>
 
@@ -102,79 +34,13 @@ Remboursable: <mark style="color:green;">Oui</mark>
 
 <summary>Black Hole</summary>
 
-Description
+Description: Possibilité de faire apparaître un trou noir qui aspire les blocs.
 
-Niveau Maximum:
+Niveau Maximum: 100
 
-Niveau de pioche Requis:&#x20;
+Niveau de pioche requis: 300
 
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Random Money</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Laser</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Rage</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
-
-</details>
-
-<details>
-
-<summary>Key All</summary>
-
-Description
-
-Niveau Maximum:
-
-Niveau de pioche Requis:&#x20;
-
-Prix total:
-
-Remboursable: <mark style="color:green;">Oui</mark>
+Prix total: 1.31B gems
 
 </details>
 
