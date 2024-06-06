@@ -1,6 +1,6 @@
 # Tokens Enchant
 
-<figure><img src="../.gitbook/assets/image_2023-12-20_225336922.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2024-06-05_231053526.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -40,21 +40,7 @@ Niveau Maximum: 5,000
 
 Niveau de pioche requis: 1
 
-Prix total: 937.68B tokens
-
-</details>
-
-<details>
-
-<summary>JackHammer</summary>
-
-Description: Possibilité de briser une couche entière de votre mine
-
-Niveau Maximum: 5,000
-
-Niveau de pioche requis: 5
-
-Prix total: 187.51T
+Prix total: 1.25T tokens
 
 </details>
 
@@ -64,11 +50,25 @@ Prix total: 187.51T
 
 Description: Donne à votre pioche une chance de dupliquer vos blocs minés
 
-Niveau Maximum: ∞
+Niveau Maximum: 100K
 
 Niveau de pioche requis: 5
 
-Prix total: ∞ tokens
+Prix total: 125T tokens
+
+</details>
+
+<details>
+
+<summary>JackHammer</summary>
+
+Description: Possibilité de briser une couche horizontale entière de votre mine
+
+Niveau Maximum: 5,000
+
+Niveau de pioche requis: 5
+
+Prix total: 187.51T
 
 </details>
 
@@ -104,7 +104,7 @@ Prix total: 225.96T
 
 <summary>Lucky</summary>
 
-Description: Donne à votre pioche une chance de gagner des
+Description: Donne à votre pioche une chance de gagner des récompenses
 
 Niveau Maximum: 50
 
@@ -118,13 +118,13 @@ Prix total: 130T
 
 <summary>Token Merchant</summary>
 
-Description:
+Description: Donne un boost de x2 Tokens gagnés par Token Finder durant 15 secondes
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 30
 
-Prix total:
+Prix total: 125.13T
 
 </details>
 
@@ -132,13 +132,13 @@ Prix total:
 
 <summary>Orbs Finder</summary>
 
-Description:
+Description: Donne à votre pioche une chance de gagner des orbs
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 40
 
-Prix total:
+Prix total: 184.9T
 
 </details>
 
@@ -146,13 +146,13 @@ Prix total:
 
 <summary>Strike</summary>
 
-Description:
+Description: Possibilité de déclencher un éclair qui produira une explosion
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 50
 
-Prix total:
+Prix total: 100.1T
 
 </details>
 
@@ -160,13 +160,13 @@ Prix total:
 
 <summary>Quake</summary>
 
-Description:
+Description: Possibilité de faire pleuvoir des flèches explosives
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 60
 
-Prix total:
+Prix total: 500.5T
 
 </details>
 
@@ -174,13 +174,13 @@ Prix total:
 
 <summary>Merchant</summary>
 
-Description:
+Description: Augmente la quantité de devise gagnez via fortune
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 75
 
-Prix total:
+Prix total: 125.08T
 
 </details>
 
@@ -188,13 +188,13 @@ Prix total:
 
 <summary>Plague</summary>
 
-Description:
+Description: Possibilité de faire apparaître une chauve-souris qui lancera des TNT
 
-Niveau Maximum:
+Niveau Maximum: 2,000
 
 Niveau de pioche requis: 80
 
-Prix total:
+Prix total: 403.8T
 
 </details>
 
@@ -202,13 +202,13 @@ Prix total:
 
 <summary>Nuke</summary>
 
-Description:
+Description: Possibilité de briser l'ensemble de votre mine
 
-Niveau Maximum:
+Niveau Maximum: 500
 
 Niveau de pioche requis: 100
 
-Prix total:
+Prix total: 1.5Q
 
 </details>
 
@@ -216,13 +216,13 @@ Prix total:
 
 <summary>Poseidon</summary>
 
-Description:
+Description: Invoque le trident de Poséidon depuis le ciel et explose en poisson, faisant exploser la mine
 
-Niveau Maximum:
+Niveau Maximum: 500
 
 Niveau de pioche requis: 125
 
-Prix total:
+Prix total: 985.63T
 
 </details>
 
@@ -230,13 +230,13 @@ Prix total:
 
 <summary>Laser</summary>
 
-Description:
+Description: Possibilité de briser une couche verticale entière de votre mine
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 150
 
-Prix total:
+Prix total: 10.09Q
 
 </details>
 
@@ -244,13 +244,27 @@ Prix total:
 
 <summary>Slime Splitter</summary>
 
-Description:
+Description: Chance d'invoquer un gros slime qui explosera en slimes plus petits
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 175
 
-Prix total:
+Prix total: 24.99Q
+
+</details>
+
+<details>
+
+<summary>Prestige Finder</summary>
+
+Description: Vous permets de gagner des prestiges
+
+Niveau Maximum: 1,000
+
+Niveau de pioche requis: 185
+
+Prix total: 375.63Q
 
 </details>
 
@@ -258,13 +272,13 @@ Prix total:
 
 <summary>Robot Finder</summary>
 
-Description:
+Description: Vous donne la chance de trouver des robots durant le minage
 
-Niveau Maximum:
+Niveau Maximum: 50
 
 Niveau de pioche requis: 200
 
-Prix total:
+Prix total: 66.25Q
 
 </details>
 
@@ -272,13 +286,27 @@ Prix total:
 
 <summary>Icy</summary>
 
-Description:
+Description: Possibilité de remplacer certains blocs de la couche par des blocs de glace
 
-Niveau Maximum:
+Niveau Maximum: 1,000
 
 Niveau de pioche requis: 250
 
-Prix total:
+Prix total: 50.95Q
+
+</details>
+
+<details>
+
+<summary>Prestige Booster</summary>
+
+Description: Donne un boost de 15 secondes durant lequel votre Prestige Finder sera en x2
+
+Niveau Maximum: 350
+
+Niveau de pioche requis: 275
+
+Prix total: 46.16Q
 
 </details>
 

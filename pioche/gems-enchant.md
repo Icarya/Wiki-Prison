@@ -1,6 +1,6 @@
 # Gems Enchant
 
-<figure><img src="../.gitbook/assets/image_2023-12-20_230812461.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2024-06-05_231148142.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -13,6 +13,20 @@ Niveau Maximum: 1
 Niveau de pioche requis: 100
 
 Prix total: 100M gems
+
+</details>
+
+<details>
+
+<summary>Level Finder</summary>
+
+Description: Possibilité de gagner des niveaux supplémentaires sur vos enchants
+
+Niveau Maximum: 30
+
+Niveau de pioche requis: 175
+
+Prix total: 9B gems
 
 </details>
 
